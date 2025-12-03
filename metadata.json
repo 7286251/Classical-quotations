@@ -1,0 +1,7 @@
+{
+  "name": "Classical quotations",
+  "description": "成年人的扎心语录生成器。浏览经典“大承活法”语录，或上传视频提取旁白，AI智能二创出直击灵魂的现实金句。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
